@@ -3,6 +3,8 @@
 
 Participé como desarrollador back-end en el proyecto G6 de Alura Latam, donde contribuí al desarrollo de una aplicación Java que facilita la conversión de divisas a través de solicitudes a una API externa. Esta aplicación cuenta con una interfaz de consola que permite al usuario realizar todas las operaciones de conversión de manera intuitiva y sencilla
 
+# Insignia del desafió
+![Badge-Conversor-removebg-preview](https://github.com/PATSIMA/Conversor_de_monedas/assets/91814599/c2a2c6d9-0dc3-488b-889c-6dc662aa4bf4)
 
 # **🔧 Funcionalidades 🔧**
 
@@ -78,5 +80,3 @@ Participé como desarrollador back-end en el proyecto G6 de Alura Latam, donde c
 
 `conversion_rates: Almacena un objeto JsonObject que contiene las tasas de cambio entre la moneda base y otras monedas.
 `
-# Insignia del desafió
-![Badge-Conversor-removebg-preview](https://github.com/PATSIMA/Conversor_de_monedas/assets/91814599/c2a2c6d9-0dc3-488b-889c-6dc662aa4bf4)
