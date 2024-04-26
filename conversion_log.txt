@@ -1,0 +1,4 @@
+Conversión: USDARS - Monto: 100.00 - Resultado: 86475.00
+Conversión: ARSUSD - Monto: 1000.00 - Resultado: 1.16
+Conversión: BRLUSD - Monto: 3000.00 - Resultado: 582.63
+Conversión: AUDUSD - Monto: 1000.00 - Resultado: 651.98
