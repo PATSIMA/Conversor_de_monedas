@@ -14,6 +14,7 @@ Participé como desarrollador back-end en el proyecto G6 de Alura Latam, donde c
 ![image](https://github.com/PATSIMA/Conversor_de_monedas/assets/91814599/37eec7c4-7429-4fc3-a2bc-a410a387e409)
 
 **4.-Integración Simplificada de API Key:** La inclusión de la API key se simplifica mediante un archivo de texto (.txt), lo que ofrece una solución intuitiva y fácil de implementar para los usuarios, garantizando un proceso de configuración sin complicaciones.
+
 ![image](https://github.com/PATSIMA/Conversor_de_monedas/assets/91814599/2c0d8669-28ad-49e6-9fd0-711c4f61f13e)
 
 # **🛠️ Caracteristicas del proyecto 🛠️**
