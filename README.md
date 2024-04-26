@@ -1,5 +1,6 @@
 # Conversor de monedas
 
+
 Participé como desarrollador back-end en el proyecto G6 de Alura Latam, donde contribuí al desarrollo de una aplicación Java que facilita la conversión de divisas a través de solicitudes a una API externa. Esta aplicación cuenta con una interfaz de consola que permite al usuario realizar todas las operaciones de conversión de manera intuitiva y sencilla
 
 
@@ -9,14 +10,16 @@ Participé como desarrollador back-end en el proyecto G6 de Alura Latam, donde c
 
 **2.- Conversión de Divisas:** Facilita la conversión eficiente y precisa entre diferentes monedas, brindando a los usuarios la capacidad de intercambiar valores con facilidad y precisión.
 
-**3.- Registro de Conversiones:** Implementa un sistema de registro que documenta cada conversión realizada, proporcionando a los usuarios un historial detallado de sus transacciones pasadas para su referencia y seguimiento.
+**3.- Registro de Conversiones:** Se ha implementado un sistema de registro que documenta cada conversión realizada. Esto brinda a los usuarios un historial detallado de sus transacciones pasadas para su referencia y seguimiento. La información se guarda tanto en un archivo conversion_log.txt como en la misma interfaz, asegurando un acceso conveniente y completo a los registros.
 
-![image](https://github.com/PATSIMA/Conversor_de_monedas/assets/91814599/2fb78132-a3ef-4348-9024-151496dada92)
-![image](https://github.com/PATSIMA/Conversor_de_monedas/assets/91814599/37eec7c4-7429-4fc3-a2bc-a410a387e409)
+![image](https://github.com/PATSIMA/Conversor_de_monedas/assets/91814599/57012190-392f-42fa-85d0-8a46870672c3)
 
-**4.-Integración Simplificada de API Key:** La inclusión de la API key se simplifica mediante un archivo de texto (.txt), lo que ofrece una solución intuitiva y fácil de implementar para los usuarios, garantizando un proceso de configuración sin complicaciones.
 
-![image](https://github.com/PATSIMA/Conversor_de_monedas/assets/91814599/2c0d8669-28ad-49e6-9fd0-711c4f61f13e)
+**4.-Integración Simplificada de API Key:** Ahora, la integración de la API key se ha simplificado aún más. Ya no es necesario incluirla en un archivo de texto (.txt). En su lugar, puedes ingresarla directamente en la interfaz, proporcionando una solución intuitiva y fácil de implementar para los usuarios. Esto asegura un proceso de configuración sin complicaciones.
+
+![image](https://github.com/PATSIMA/Conversor_de_monedas/assets/91814599/f3c13b98-bdcd-4977-a52e-f67b84d5afdd)
+
+![2024-04-26-16-20-18_Trim](https://github.com/PATSIMA/Conversor_de_monedas/assets/91814599/8d38860e-61e4-4bf5-b9ef-8ba9bfae7bb1)
 
 # **🛠️ Caracteristicas del proyecto 🛠️**
 
